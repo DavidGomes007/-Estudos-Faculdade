@@ -1,7 +1,0 @@
-# -Estudos-Faculdade
-
-       introdução 
-       
- O desenvolvimento inicial de C ocorreu no AT&T Bell Labs entre 1969 e 1973. De acordo com Ritchie, o período mais criativo ocorreu em 1972. A linguagem foi chamada "C", porque suas características foram obtidas a partir de uma linguagem anteriormente chamada de "B", que de acordo com Ken Thompson era a versão reduzida da linguagem de programação BCPL.[10]
-
-A versão original PDP-11 do sistema Unix foi desenvolvido em Assembly. Em 1973, com a adição dos tipos struct, a linguagem C tornou-se poderosa o suficiente para que a maior parte do kernel do Unix fosse reescrito em C. Este foi um dos primeiros núcleos de sistemas operacionais implementados numa linguagem diferente da linguagem Assembly. Em 1977, foram feitas novas mudanças por Ritchie e Stephen C. Johnson para facilitar a portabilidade do sistema operacional Unix. O Portable C Compiler de Johnson serviu de base para várias implementações de C em novas plataformas.
